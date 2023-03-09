@@ -3,6 +3,7 @@ import GameBoardComponent from "./GameBoardComponent";
 
 import { Chess } from "chess.js";
 
+//Chess Fen
 const chess = new Chess(
   "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
 );
